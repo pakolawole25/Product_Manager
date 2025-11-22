@@ -1,6 +1,6 @@
 # Product_Manager
-IT Product Manager and Project management
-A blend of strategic product thinking, technical depth, and cross-functional delivery.
+IT Product Manager and Project management with a blend of strategic product thinking, technical depth, and cross-functional team excellence delivery.
+
 
 About Me
 
