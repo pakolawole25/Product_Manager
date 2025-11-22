@@ -4,6 +4,8 @@ IT Product Manager and Project management with a blend of strategic product thin
 
 About Me
 
+<img src="CreatorBoostAssets1/35mmX45mm.jpg" width="100">
+
 I am a Product Manager with a strong background in IT systems, cloud platforms, enterprise software, and digital transformation. My experience spans over a decade leading system rollouts, managing technical integrations, collaborating with engineering and business teams, and delivering high-impact solutions in enterprise environments.
 
 Trained at Betechified Academy, with AIPMM Certified Product Manager (In View — Q1 2026), I specialize in transforming operational problems into scalable digital products — especially across IT solutions, B2B platforms, and fintech ecosystems.
