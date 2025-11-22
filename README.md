@@ -10,7 +10,7 @@ Trained at Betechified Academy, with AIPMM Certified Product Manager (In View �
 
 📂 Featured Product Case Studies
 
-CreatorBoost – Digital Monetization & Growth Platform for African Content Creators
+CreatorBoost – Digital Monetization & Growth Platform for African Content Creators (Capstone Project)
 
 Product Type: Mobile App + Creator Dashboard
 Status: Concept → Research → MVP Definition (2024)
@@ -48,6 +48,10 @@ In-app revenue tools (tips, paid collabs, micro-subscriptions)
 
 Localized analytics (Nigerian + African trends)
 
+
+**Project Screenshots:**
+
+![Latest HP servers- firewalls-Cisco edge and distribution switches upgraded](./assets/MarriottIntegrationP1.JPG)
 
 | Project                      | Skills                                   | Tools               | Link                     |
 |-------------------------------|------------------------------------------|----------------------|---------------------------|
