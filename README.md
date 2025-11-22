@@ -8,7 +8,7 @@ About Me
 
 I am a Product Manager with a strong background in IT systems, cloud platforms, enterprise software, and digital transformation. My experience spans over a decade leading system rollouts, managing technical integrations, collaborating with engineering and business teams, and delivering high-impact solutions in enterprise environments.
 
-Trained at Betechified Academy, with AIPMM Certified Product Manager (In View — Q1 2026), I specialize in transforming operational problems into scalable digital products — especially across IT solutions, B2B platforms, and fintech ecosystems.
+Hands-on product management Trained at Betechified Academy, with AIPMM Certified Product Manager (In View — Q1 2026), I specialize in transforming operational problems into scalable digital products — especially across IT solutions, B2B platforms, and fintech ecosystems.
 
 📂 Featured Product Case Studies
 
@@ -16,7 +16,7 @@ CreatorBoost – Digital Monetization & Growth Platform for African Content Crea
 
 Product Type: Mobile App + Creator Dashboard
 Status: Concept → Research → MVP Definition (2024)
-Industry: Creator Economy / Fintech / Social Commerce
+Industry: Content Creator Economy / Fintech / Social Commerce
 
 🔹 Problem
 
@@ -53,15 +53,15 @@ Localized analytics (Nigerian + African trends)
 
 **CreatorBoost Project Screenshots:**
 
-![Figma MVP Design1](./CreatorBoostAssets1/MVP Design-Web Format-p7.JPG)
+![Figma MVP Design1](./CreatorBoostAssets1/MVP-Design-Web-Format-p7.JPG)
 
 
-![Figma MVP Design2](./CreatorBoostAssets1/MVP Design-Web Format-p11.JPG)
+![Figma MVP Design2](./CreatorBoostAssets1/MVP-Design-Web-Format-p11.JPG)
 
 
 | Project                      | Skills                                   | Tools               | Link                     |
 |-------------------------------|------------------------------------------|----------------------|---------------------------|
-| Wireshark Traffic Analysis    | Network Forensics, Malware Analysis, IOC Identification | Wireshark, OSINT       | [Project 1 Link](./assets/Project_1_Wireshark_Traffic_Analysis_README.md)        |
+| CreatorBoost    | Network Forensics, Malware Analysis, IOC Identification | Wireshark, OSINT       | [Project 1 Link](./assets/Project_1_Wireshark_Traffic_Analysis_README.md)        |
 
 
 Automated rate card generator
