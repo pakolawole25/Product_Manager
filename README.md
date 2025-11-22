@@ -48,6 +48,12 @@ In-app revenue tools (tips, paid collabs, micro-subscriptions)
 
 Localized analytics (Nigerian + African trends)
 
+
+| Project                      | Skills                                   | Tools               | Link                     |
+|-------------------------------|------------------------------------------|----------------------|---------------------------|
+| Wireshark Traffic Analysis    | Network Forensics, Malware Analysis, IOC Identification | Wireshark, OSINT       | [Project 1 Link](./assets/Project_1_Wireshark_Traffic_Analysis_README.md)        |
+
+
 Automated rate card generator
 
 Integrated wallet for payouts
