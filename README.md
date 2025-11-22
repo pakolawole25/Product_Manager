@@ -49,11 +49,13 @@ In-app revenue tools (tips, paid collabs, micro-subscriptions)
 Localized analytics (Nigerian + African trends)
 
 
-**Project Screenshots:**
+**CreatorBoost Project Screenshots:**
 
 ![Figma MVP Design1](./CreatorBoostAssets1/MVP Design-Web Format-p7.JPG)
 
+
 ![Figma MVP Design2](./CreatorBoostAssets1/MVP Design-Web Format-p11.JPG)
+
 
 | Project                      | Skills                                   | Tools               | Link                     |
 |-------------------------------|------------------------------------------|----------------------|---------------------------|
